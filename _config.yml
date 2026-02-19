@@ -11,6 +11,7 @@ url: https://kaiqueramos.github.io
 
 header_pages:
   - index.md
+  - categorias.md
   - about.md
 
 style: dark

@@ -22,9 +22,4 @@ Meu bloco de notas sobre Inteligência Artificial. Aqui registro o que aprendo, 
 
 ---
 
-### Categorias
-
-{% assign categories = site.posts | map: 'category' | uniq | sort %}
-{% for cat in categories %}
-- **{{ cat }}** ({{ site.posts | where: 'category', cat | size }})
-{% endfor %}
+📂 [Ver todas as categorias]({{ '/categorias' | relative_url }})

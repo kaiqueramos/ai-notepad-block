@@ -11,10 +11,5 @@ Técnicas de prompt engineering e exemplos práticos.
 
 ---
 
-### Chain of Thought
-
-*Em breve...*
-
-### Few-shot
-
-*Em breve...*
+- [Chain of Thought]({{ '/notas/prompting/chain-of-thought' | relative_url }})
+- [Few-shot]({{ '/notas/prompting/few-shot' | relative_url }})

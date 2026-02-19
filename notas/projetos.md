@@ -11,6 +11,4 @@ Coisas que construí e experimentei.
 
 ---
 
-### Kiro MR Reviewer
-
-*Em breve...*
+- [Kiro MR Reviewer]({{ '/notas/projetos/kiro-mr-reviewer' | relative_url }})

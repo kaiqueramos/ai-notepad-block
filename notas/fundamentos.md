@@ -11,14 +11,6 @@ Redes neurais, transformers, embeddings e conceitos base.
 
 ---
 
-### Transformers
-
-*Em breve...*
-
-### Redes Neurais
-
-*Em breve...*
-
-### Embeddings
-
-*Em breve...*
+- [Transformers]({{ '/notas/fundamentos/transformers' | relative_url }})
+- [Redes Neurais]({{ '/notas/fundamentos/redes-neurais' | relative_url }})
+- [Embeddings]({{ '/notas/fundamentos/embeddings' | relative_url }})

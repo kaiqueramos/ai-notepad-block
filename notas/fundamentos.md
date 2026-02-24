@@ -7,10 +7,11 @@ layout: default
 
 ## 🧠 Fundamentos
 
-Redes neurais, transformers, embeddings e conceitos base.
+Começe a ler daqui. Essa sessão, e esse bloco de notas todo, é um dump do meu cérebro, mas também é uma forma de eu ensinar mais para ler. Não recomendo você ler esse conteúdo se for um usuário comum de inteligência artificial, ou leigo no que se trata de programação, arquitetura ou engenharia de software. Apesar de ser uma sessão de fundamentos, espero que você já saiba o básico sobre prompting, janela de contexto, já tenha construído alguns sistemas por ai, e tenha quebrado outros, porque não?
+
+
 
 ---
 
-- [Transformers]({{ '/notas/fundamentos/transformers' | relative_url }})
-- [Redes Neurais]({{ '/notas/fundamentos/redes-neurais' | relative_url }})
-- [Embeddings]({{ '/notas/fundamentos/embeddings' | relative_url }})
+- [Base de conhecimento]({{ '/notas/fundamentos/base' | relative_url }})
+- [Steering]({{ '/notas/fundamentos/steering' | relative_url }})

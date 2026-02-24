@@ -1,11 +1,11 @@
 ---
-title: "🛠️ Projetos"
+title: "🛠️ Extras"
 layout: default
 ---
 
 [← Voltar]({{ '/' | relative_url }})
 
-## 🛠️ Projetos
+## 🛠️ Extras
 
 Coisas que construí e experimentei.
 

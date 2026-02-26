@@ -13,5 +13,6 @@ Começe a ler daqui. Essa sessão, e esse bloco de notas todo, é um dump do meu
 
 ---
 
-- [Base de conhecimento]({{ '/notas/fundamentos/base' | relative_url }})
+- [Base de conheciment sobre AI]({{ '/notas/fundamentos/base' | relative_url }})
 - [Steering]({{ '/notas/fundamentos/steering' | relative_url }})
+- [O que é AI?]({{ '/notas/fundamentos/o-que-e-ai' | relative_url }})

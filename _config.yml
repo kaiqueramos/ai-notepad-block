@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-title: AI Notepad Block
+title: AI Notepad
 description: My personal notepad
 baseurl: /ai-notepad-block
 url: https://kaiqueramos.github.io
